@@ -1,7 +1,7 @@
 <h1><strong>HOW TO RUN:</strong></h1>
 
 <strong>sudo chmod +x freespace.sh</strong><br>
-<strong>sudo chmod +x freespaceq.sh</strong><br>
+<strong>sudo chmod +x freespace1.sh</strong><br>
 
 <strong>./freespace.sh</strong><br>
 <strong>./freespace1.sh</strong>
