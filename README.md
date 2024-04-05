@@ -32,3 +32,6 @@
         <p>This removes old revisions of snap packages, helping to free up disk space and keep the system tidy. This operation mainly affects the partition where snap packages are stored.</p>
     </li>
 </ul>
+
+<img src="cat.png" alt="uwu car>
+<h1>ANY MISTAKES PLEASE LET ME KNOW AND DROP ME A STAR</h1>
