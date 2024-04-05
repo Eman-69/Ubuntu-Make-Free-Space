@@ -33,5 +33,5 @@
     </li>
 </ul>
 
-<img src="cat.png" alt="uwu car">
+<img src="car.png" alt="uwu car">
 <h1>ANY MISTAKES PLEASE LET ME KNOW AND DROP ME A STAR</h1>
